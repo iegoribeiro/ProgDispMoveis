@@ -14,3 +14,5 @@
 ![App9_ListTarefasGKeep](https://user-images.githubusercontent.com/51824332/123526564-18e1bc80-d6af-11eb-8077-7be89caa76db.jpg)
 ![App10_CadDevComFoto](https://user-images.githubusercontent.com/51824332/124203385-f981cf80-dab2-11eb-8d7f-476fe255420d.jpg)
 ![App11_CadTasksComFoto](https://user-images.githubusercontent.com/51824332/124207961-f25fbf00-dabc-11eb-8e80-51a4457d224d.jpg)
+![App12_FragmentsExemplo](https://user-images.githubusercontent.com/51824332/124358911-dd884600-dbf8-11eb-8e44-48f5c4aad58b.jpg)
+![App13_MiniWhatapp](https://user-images.githubusercontent.com/51824332/124358868-a74ac680-dbf8-11eb-9749-b7a9e921b057.jpg)
