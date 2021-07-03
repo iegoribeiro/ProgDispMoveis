@@ -16,3 +16,4 @@
 ![App11_CadTasksComFoto](https://user-images.githubusercontent.com/51824332/124207961-f25fbf00-dabc-11eb-8e80-51a4457d224d.jpg)
 ![App12_FragmentsExemplo](https://user-images.githubusercontent.com/51824332/124358911-dd884600-dbf8-11eb-8e44-48f5c4aad58b.jpg)
 ![App13_MiniWhatapp](https://user-images.githubusercontent.com/51824332/124358868-a74ac680-dbf8-11eb-9749-b7a9e921b057.jpg)
+![App14_ShortBioComAbas](https://user-images.githubusercontent.com/51824332/124361743-0c0d1d80-dc07-11eb-8cb1-cb748d0ab822.jpg)
